@@ -1,3 +1,5 @@
 class Dog
   fido = Dog.new
-end 
+  sparky = Dog.new
+  meep = Dog.new
+end
